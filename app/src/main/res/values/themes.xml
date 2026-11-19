@@ -1,0 +1,5 @@
+<resources xmlns:tools="http://android.com">
+    <style name="Theme.YoavProject2" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowBackground">#000000</item>
+    </style>
+</resources>
